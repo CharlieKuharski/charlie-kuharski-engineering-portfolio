@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1000" viewBox="0 0 1440 1000"><defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#63748b"/></marker></defs><rect width="1440" height="1000" fill="#f8fafc"/>
+<text x="50" y="58" font-family="Arial, sans-serif" font-size="32" fill="#17273e" font-weight="700">OpenMission + OpenVirtualAgent</text>
+<text x="50" y="91" font-family="Arial, sans-serif" font-size="20" fill="#52637a" font-weight="400">Application delivery and optional distributed execution</text>
+<text x="50" y="145" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="700">OPENMISSION · LOCAL APPLICATION WORKFLOW</text>
+<rect x="50" y="170" width="236" height="148" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="70" y="203" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Review</text>
+<text x="70" y="233" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Request → story</text>
+<text x="70" y="258" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Acceptance criteria</text>
+<text x="70" y="283" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">User approval</text>
+<rect x="326" y="170" width="236" height="148" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="346" y="203" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Generate tests</text>
+<text x="346" y="233" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Project workspace</text>
+<text x="346" y="258" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Criterion-specific tests</text>
+<text x="346" y="283" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Observable assertions</text>
+<rect x="602" y="170" width="236" height="148" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="622" y="203" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Implement</text>
+<text x="622" y="233" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Hermes agent</text>
+<text x="622" y="258" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Configured models</text>
+<text x="622" y="283" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Bounded repair attempts</text>
+<rect x="878" y="170" width="236" height="148" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="898" y="203" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Validate</text>
+<text x="898" y="233" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Build + test evidence</text>
+<text x="898" y="258" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Regression for tasks</text>
+<text x="898" y="283" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Report actual outcomes</text>
+<rect x="1154" y="170" width="236" height="148" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1174" y="203" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Deliver</text>
+<text x="1174" y="233" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Application controls</text>
+<text x="1174" y="258" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Test results</text>
+<text x="1174" y="283" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Local security report</text>
+<path d="M286 245 L326 245" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M562 245 L602 245" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M838 245 L878 245" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M1114 245 L1154 245" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="50" y="355" font-family="Arial, sans-serif" font-size="18" fill="#52637a" font-weight="400">Local OM can call Hermes directly. OVA is not required for this path.</text>
+<text x="50" y="425" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="700">OVA · CLOUD-ORIENTED EXECUTION PATH</text>
+<rect x="50" y="455" width="235" height="115" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="70" y="488" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Caller / OM</text>
+<text x="70" y="518" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Submit execution</text>
+<text x="70" y="543" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Read result and usage</text>
+<rect x="340" y="455" width="260" height="115" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="360" y="488" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">OVA API</text>
+<text x="360" y="518" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Persist before dispatch</text>
+<text x="360" y="543" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Publish execution ID</text>
+<rect x="680" y="455" width="295" height="115" rx="12" fill="#eef2ff" stroke="#cbd5e1"/>
+<text x="700" y="488" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Core NATS</text>
+<text x="700" y="518" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Thinking queue group</text>
+<text x="700" y="543" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Coding queue group</text>
+<rect x="1050" y="455" width="340" height="115" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1070" y="488" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Workers</text>
+<text x="1070" y="518" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Claim work + renew lease</text>
+<text x="1070" y="543" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Execute only while authorized</text>
+<path d="M285 510 L340 510" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M600 510 L680 510" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M975 510 L1050 510" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="340" y="660" width="360" height="135" rx="12" fill="#ecfdf5" stroke="#cbd5e1"/>
+<text x="360" y="693" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Durable SQLite state</text>
+<text x="360" y="723" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Executions, claims and leases</text>
+<text x="360" y="748" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Results and usage</text>
+<text x="360" y="773" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Reconciliation / retry bookkeeping</text>
+<rect x="1050" y="660" width="340" height="135" rx="12" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="1070" y="693" font-family="Arial, sans-serif" font-size="20" fill="#17273e" font-weight="700">Agent / inference</text>
+<text x="1070" y="723" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Thinking: direct inference</text>
+<text x="1070" y="748" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Coding: Hermes session</text>
+<text x="1070" y="773" font-family="Arial, sans-serif" font-size="17" fill="#17273e" font-weight="400">Metered by active execution</text>
+<path d="M470 570 L470 660" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M1220 570 L1220 660" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M1130 570 L1130 615 L700 615 L700 680" stroke="#63748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="710" y="605" font-family="Arial, sans-serif" font-size="16" fill="#52637a" font-weight="400">Claims / results</text>
+<path d="M620 660 L620 590 L800 590 L800 570" stroke="#63748b" stroke-width="2" stroke-dasharray="6 5" fill="none" marker-end="url(#arrow)"/>
+<text x="50" y="847" font-family="Arial, sans-serif" font-size="18" fill="#17273e" font-weight="400">Recovery: durable reconciliation can republish dispatch IDs; workers still validate claims.</text>
+<text x="50" y="882" font-family="Arial, sans-serif" font-size="18" fill="#17273e" font-weight="400">Core NATS is ephemeral. Durable execution belongs to OVA, not the queue adapter sample.</text>
+<text x="50" y="917" font-family="Arial, sans-serif" font-size="18" fill="#17273e" font-weight="400">Duplicate dispatch is possible; no exactly-once guarantee for external side effects is claimed.</text>
+<text x="50" y="966" font-family="Arial, sans-serif" font-size="16" fill="#52637a" font-weight="400">Architecture illustration · selected samples in this portfolio demonstrate only the boundaries identified in their READMEs.</text>
+</svg>

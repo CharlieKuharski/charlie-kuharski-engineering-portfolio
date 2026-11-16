@@ -1,0 +1,64 @@
+{
+  "prepared": "2026-11-16",
+  "sources": [
+    {
+      "repository": "OpenVirtualAgent",
+      "source": "pkg/bus/nats/bus.go",
+      "destination": "samples/distributed-queue/bus.go",
+      "revision": "5a1ed0070604d4de8d989ba0e7fec61465d1722a",
+      "source_sha256": "ca920b171c5091c77f9b8f56c9bf8c5ee2ae9daed10a28c27c6b8fa14b7394b7",
+      "source_modified": false
+    },
+    {
+      "repository": "OpenVirtualAgent",
+      "source": "pkg/bus/nats/bus_test.go",
+      "destination": "samples/distributed-queue/bus_test.go",
+      "revision": "5a1ed0070604d4de8d989ba0e7fec61465d1722a",
+      "source_sha256": "448128a626fa89528a9d09e8ec9c50b19e74254d16e1f5a850f38a9d8ac53d69",
+      "source_modified": false
+    },
+    {
+      "repository": "OpenVirtualAgent",
+      "source": "LICENSE",
+      "destination": "samples/distributed-queue/LICENSE",
+      "revision": "5a1ed0070604d4de8d989ba0e7fec61465d1722a",
+      "source_sha256": "840a3a8e4a154d8320c82363a39b645159a744366d8a0efe54332b0275fb83ed",
+      "source_modified": false
+    },
+    {
+      "repository": "openmission",
+      "source": "internal/server/worker_workspace_protection.go",
+      "destination": "samples/workspace-protection/protection.go",
+      "revision": "dbf509b08b0d86a0f22e6682c71d49a5207c7d7c",
+      "source_sha256": "dad6222b2b412a9bfef9124459a17a6cabccc57c81bb18d61871372906f1ecae",
+      "source_modified": false
+    },
+    {
+      "repository": "openmission",
+      "source": "internal/server/worker_workspace_protection_test.go",
+      "destination": "samples/workspace-protection/protection_test.go",
+      "revision": "dbf509b08b0d86a0f22e6682c71d49a5207c7d7c",
+      "source_sha256": "01d379c3c61677e54692b16b9123bd81effcc836972eb2df61994bfa8d226487",
+      "source_modified": false,
+      "additional_destinations": [
+        "samples/workspace-protection/protection_unix_test.go"
+      ]
+    },
+    {
+      "repository": "openmission",
+      "source": "ui/src/onDemand.ts",
+      "destination": "samples/project-loading/src/onDemand.ts",
+      "revision": "dbf509b08b0d86a0f22e6682c71d49a5207c7d7c",
+      "source_sha256": "8d8b841178a697089e95e440c58e3307692b3b5e788cce817ac56cfdd4615ef5",
+      "source_modified": false
+    },
+    {
+      "repository": "openmission",
+      "source": "ui/tests/onDemand.test.ts",
+      "destination": "samples/project-loading/tests/onDemand.test.ts",
+      "revision": "dbf509b08b0d86a0f22e6682c71d49a5207c7d7c",
+      "source_sha256": "ba7a3ccf8220e58abac7e1e077469351d5f0d669416f61db5add90b7b52f7332",
+      "source_modified": false
+    }
+  ]
+}

@@ -14,9 +14,8 @@ My professional background includes technology leadership in financial services 
 
 I use AI-assisted development tools. Product direction, architecture, integration, debugging decisions, and acceptance of changes remain my responsibility.
 
-![OpenMission build progress rendered with synthetic project data](media/overview.png)
+![OpenMission screenshot](media/screenshot.png)
 
-*Actual OM interface, rendered against local synthetic API fixtures. Names, progress, and findings are demonstrations, not customer data or a live production run.*
 
 ## Five-minute review
 

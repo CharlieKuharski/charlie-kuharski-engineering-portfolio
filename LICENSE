@@ -1,0 +1,36 @@
+DRAFT — PROPOSED HIRING-EVALUATION TERMS
+Review and finalize with qualified legal counsel before publication.
+
+Copyright (c) 2026 Charlie Kuharski. All rights reserved except as stated below.
+
+Scope. These proposed terms concern only original materials in this package for
+which Charlie Kuharski has authority to grant permission. They do not apply to
+samples/distributed-queue (licensed under its included MIT license), third-party
+components or notices, or material covered by another applicable license. They
+do not withdraw or narrow rights previously granted under another license.
+
+Evaluation permission. Subject to these terms, a prospective employer and its
+hiring reviewers may view and make local copies of covered materials, run the
+included tests, and make temporary local adaptations solely to evaluate Charlie
+Kuharski's qualifications for employment. Reviewers may share covered materials
+within that employer's hiring team for that purpose, preserving these terms and
+applicable notices.
+
+Restrictions. Except for that evaluation permission, rights required by applicable
+law, or permissions separately granted in writing, no permission is granted to
+redistribute covered materials, incorporate covered code into another product,
+operate covered code as a service, or use covered code for other commercial or
+production purposes. These terms do not restrict independently developed work
+or unprotectable ideas. Viewing/forking rights required by the hosting platform's
+applicable terms are not overridden by this notice.
+
+Ownership and attribution. Evaluation access transfers no ownership. Retain
+copyright and license notices. No trademark rights or endorsement are granted.
+
+No warranty. Covered materials are provided as-is, without warranties of
+merchantability, fitness for a particular purpose, or noninfringement. To the
+extent permitted by law, the author disclaims liability arising from their use.
+
+This draft is not a confidentiality agreement and does not prevent technical
+copying. It is not represented as an attorney-reviewed or enforceable agreement
+in every jurisdiction. See docs/pre-publication-checklist.md before release.
